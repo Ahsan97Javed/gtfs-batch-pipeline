@@ -46,7 +46,7 @@ This dashboard provides an interactive overview of key public transit metrics ge
 
 Full GTFS datasets used in this project are stored on Google Drive for ease of access and to ensure reproducibility.
 
-- [Google Drive – Full GTFS Dataset]([https://drive.google.com/drive/folders/XXXXXXXXXXXXXXX](https://drive.google.com/drive/folders/1qtsPU90AbaDWaNW8MVw-7HBkKQLY0vLv?usp=drive_link))
+- [Google Drive – Full GTFS Dataset]((https://drive.google.com/drive/folders/1qtsPU90AbaDWaNW8MVw-7HBkKQLY0vLv?usp=drive_link))
 
 ## 📂 Project Structure
 .
