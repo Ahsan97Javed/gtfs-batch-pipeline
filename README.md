@@ -61,7 +61,7 @@ Full GTFS datasets used in this project are stored on Google Drive for ease of a
 │   └── architecture_diagram.png
 ├── docs/
 │ ├── conception phase
-│ ├── 
+│ ├── development phase
 │ └── 
 ├── README.md
 └── LICENSE
